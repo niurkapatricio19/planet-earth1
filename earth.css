@@ -3,7 +3,7 @@
   width:device-width;
   zoom:1.0;
 } 
- @media onlyscreen and (max-width:320px) {
+ @media only screen and (max-width:320px) {
   /* CSS for screens that are 320 pixels or less will be put in this section */
      #leftbox {
     width: 200px ;
